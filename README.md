@@ -5,7 +5,7 @@
 
 ##  Quick Navigation  
 
-[Author](#Author)|[Description](#description)|[My Favorite Subjects](#my-favorite-subjects)|[Online vs Offline Studying](#-online-vs-offline-studying)|[My Favorite Math Formulas](#my-favorite-math-formulas)|[My Coding Skills](#my-coding-skills)|[The Image I Like](#the-image-i-like)
+[Author](#Author)|[Description](#description)|[My Favorite Subjects](#my-favorite-subjects)|[Online vs Offline Studying](#online-vs-offline-studying)|[My Favorite Math Formulas](#my-favorite-math-formulas)|[My Coding Skills](#my-coding-skills)|[The Image I Like](#the-image-i-like)
 
 ---
 
