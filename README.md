@@ -3,13 +3,13 @@
 
 ---
 
-##  Quick Navigation  
+##  Quick Navigation
 
 [Author](#Author)|[Description](#description)|[My Favorite Subjects](#my-favorite-subjects)|[Online vs Offline Studying](#online-vs-offline-studying)|[My Favorite Math Formulas](#my-favorite-math-formulas)|[My Coding Skills](#my-coding-skills)|[The Image I Like](#the-image-i-like)
 
 ---
 
-## Author  
+## Author
 * Name: *Milena Rudchenko*  
 * Group: *KN-125dsg*  
 * Date: *03.11.2025*  
@@ -17,8 +17,7 @@
 ---
 
 ## Description  
-I am a student of group KN-125dsg and I created this repository for Lab 5 on *Artificial Intelligence*.  
-Here, I am learning how to use GitHub.
+I am a student of group KN-125dsg and I created this repository for Lab 5 on Artificial Intelligence. Here, I am learning how to use **GitHub**.
 
 ---
 
@@ -76,6 +75,7 @@ It is used to find the area of a triangle using its base and height.
 ##  My Coding Skills  
 
 Here is a simple C++ program that prints Hello, GitHub!:
+
 ```
 #include <iostream>
 using namespace std;
@@ -85,4 +85,10 @@ int main() {
     return 0;
 }
 ```
- Check the program here: [C++ Compiler](https://www.onlinegdb.com/online_c++_compiler)
+ Check the program here: [C++ Compiler](https://www.onlinegdb.com/online_c++_compiler) . In this example, the `main()` function prints "Hello, GitHub!" message.
+
+## The Image I Like  
+
+This image represents something that inspires me✨️✨️✨️
+
+![My Favorite Image](images/photo.jpg)
