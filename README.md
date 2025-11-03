@@ -85,4 +85,4 @@ int main() {
     return 0;
 }
 ```
- Check the program here: [C++ Compiler](https://www.programiz.com/cpp/online-compiler/)
+ Check the program here: [C++ Compiler](https://www.onlinegdb.com/online_c++_compiler)
