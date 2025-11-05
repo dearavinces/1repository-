@@ -10,9 +10,9 @@
 ---
 
 ## Author
-* Name: *Milena Rudchenko*  
-* Group: *KN-125dsg*  
-* Date: *03.11.2025*  
+* **Name**: *Milena Rudchenko*  
+* **Group**: *KN-125dsg*  
+* **Date**: *03.11.2025*  
 
 ---
 
@@ -71,12 +71,34 @@ $$
 It is used to find the area of a triangle using its base and height.
 
 ---
+---
+### 4. Arc Length Formula
+$$
+L = \frac{\pi R \alpha}{180}
+$$
 
-##  My Coding Skills  
+This formula is used in geometry to find the length of a portion of a circle (an arc).
+
+---
+---
+### 5. Sum of Angles in a Triangle
+
+$$
+\alpha + \beta + \gamma = \pi
+$$
+
+---
+---
+### 6. Complex Number in Trigonometric Form
+
+$$
+z = \rho (\cos \phi + i \sin \phi)
+$$
+---
 
 Here is a simple C++ program that prints Hello, GitHub!:
 
-```
+```c++
 #include <iostream>
 using namespace std;
 
