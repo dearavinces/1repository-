@@ -89,11 +89,13 @@ $$
 
 ---
 ---
+
 ### 6. Complex Number in Trigonometric Form
 
 $$
 z = \rho (\cos \phi + i \sin \phi)
 $$
+
 ---
 
 Here is a simple C++ program that prints Hello, GitHub!:
